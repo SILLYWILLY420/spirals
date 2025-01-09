@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/steventey">
-    <img src="https://img.shields.io/twitter/follow/steventey?style=flat&label=steventey&logo=twitter&color=0bf&logoColor=fff" alt="Steven Tey Twitter follower count" />
+  <a href="https://twitter.com/basespirals">
+    <img src="https://img.shields.io/twitter/follow/basespirals?style=flat&label=steventey&logo=twitter&color=0bf&logoColor=fff" alt="Steven Tey Twitter follower count" />
   </a>
   <a href="https://github.com/steven-tey/spirals">
     <img src="https://img.shields.io/github/stars/steven-tey/spirals?label=steven-tey%2Fspirals" alt="Spirals repo star count" />
@@ -53,4 +53,4 @@ Note that you'll need to:
 
 ## Author
 
-- Steven Tey ([@steventey](https://twitter.com/steventey))
+- Steven Tey ([@BASESPIRALS](https://twitter.com/basespirals))
